@@ -1,9 +1,9 @@
-let elForm = document.querySelector(".registor-form")
+let elForm = document.querySelector(".register-form")
 
 elForm.addEventListener("submit", function(e) {
     e.preventDefault()
     let data = {
-        id:passwords.length +1,
+        id:passwords.length + 1,
         username:e.target.username.value,
         password:e.target.password.value,
     }

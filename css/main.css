@@ -34,6 +34,12 @@
   src: url('../fonts/league-spartan-v11-latin-800.woff2') format('woff2'); 
 }
 
+.containers{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
 body{
     font-family: 'League Spartan', sans-serif ;
 }
