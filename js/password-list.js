@@ -87,7 +87,7 @@ let passwords = [
         id:13,
         username:"ibrohim",
         firstName:"Ibrohim",
-        lastName:"",
+        lastName:"Shukurullayev",
         password:"123"
     },
     {
