@@ -5,7 +5,7 @@ elForm.addEventListener("submit", function(e) {
     let data = {
         id:passwords.length + 1,
         username:e.target.username.value,
-        firstName:e.target.username.value,
+        firstName:e.target.firstName.value,
         lastName:e.target.lastName.value,
         password:e.target.password.value,
     }
