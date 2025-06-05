@@ -10,7 +10,7 @@ let passwords = [
         id:2,
         username:"ulug'bek",
         firstName:"Ulug'bek",
-        lastName:"Rahmatullayev",
+        lastName:"Rahmatillayev",
         password:"123"
     },
     {
@@ -45,7 +45,7 @@ let passwords = [
         id:7,
         username:"nigora",
         firstName:"Nigora",
-        lastName:"",
+        lastName:"Xasanova",
         password:"123"
     },
     {
@@ -108,7 +108,7 @@ let passwords = [
         id:16,
         username:"muhammadali",
         firstName:"Muhammadali",
-        lastName:"",
+        lastName:"Rustambekov",
         password:"123"
     }
 ]
