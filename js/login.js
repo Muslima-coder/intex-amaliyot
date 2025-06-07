@@ -31,6 +31,3 @@ elForm.addEventListener("submit", function(e){
    
     },1000)
 })
-
-
-
