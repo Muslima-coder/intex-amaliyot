@@ -599,4 +599,7 @@ elSiteList.addEventListener("click", function(e){
     else if(e.target.textContent == "Категории"){
        location.pathname = "/category.html"
     }
+      else if(e.target.textContent == "Сайт"){
+       location.pathname = "/site.html"
+    }
 })
