@@ -17,14 +17,14 @@ let passwords = [
         id:3,
         username:"shamsiddin",
         firstName:"Shamsiddin",
-        lastName:"",
+        lastName:"Boyqulov",
         password:"123"
     },
     {
         id:4,
         username:"mirzo",
         firstName:"Mirzohamdam",
-        lastName:"",
+        lastName:"To'lqinov",
         password:"123"
     },
     {
@@ -38,7 +38,7 @@ let passwords = [
         id:6,
         username:"ozodbek",
         firstName:"Ozodbek",
-        lastName:"",
+        lastName:"Mirjonov",
         password:"123"
     },
     {
@@ -94,14 +94,14 @@ let passwords = [
         id:14,
         username:"abduvohob",
         firstName:"Abduvohob",
-        lastName:"",
+        lastName:"Mirzaaxmedov",
         password:"123"
     },
     {
         id:15,
         username:"abdulla",
         firstName:"Abdulla",
-        lastName:"",
+        lastName:"Sultonmurodov",
         password:"123"
     },
     {
