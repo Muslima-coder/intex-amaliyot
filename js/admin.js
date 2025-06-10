@@ -773,7 +773,7 @@ function handleAddBtnClick(){
 
         }
         products.push(pool)
-        localStorage.setItem("products", JSON.stringify(products))
+        // localStorage.setItem("products", JSON.stringify(products))
         elSubmitBtn.innerHTML = `
            <img class="w-[30px] h-[30px] scale-[1.4] mx-auto" src="./images/loading-white.png" alt="loading" width="30" height="30" />
         
