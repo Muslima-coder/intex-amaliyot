@@ -105,7 +105,6 @@ function handleOrder(id) {
         }, 1000)
     })
 }
-// Order Part end
 
 let handleClose = () => modalWrapper.classList.add("scale-0")
 

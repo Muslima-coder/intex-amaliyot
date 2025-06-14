@@ -13,7 +13,6 @@ function handleCheck(id){
     localStorage.setItem("orders", JSON.stringify(orders))
     renderProducts(orders, elOrderTable)
 } 
-// Complated Part 
 
 
 //Change site

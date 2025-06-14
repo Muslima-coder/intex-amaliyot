@@ -1,4 +1,4 @@
-// Table Head Create
+// Table Head 
 let elTableHeading = document.querySelector(".table-heading")
 
 let productHeading = ["Изображение", "Цена(сум)", "Категория" ,"Количество", "Рамка", "Действия"]
@@ -15,8 +15,6 @@ function renderHeading(arr, list){
     })
     list.append(elTR)
 }
-
-// Table Head Create
 
 
 // Render Products start
@@ -120,7 +118,6 @@ function renderProducts(arr, list, categoryId) {
         })
     }
 }
-// Render Products end
 
 if(location.pathname == "/admin.html"){
     renderHeading(productHeading, elTableHeading)

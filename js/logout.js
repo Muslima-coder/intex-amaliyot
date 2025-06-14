@@ -29,4 +29,3 @@ function handleSignOut() {
         location.pathname = "/"
     }, 800)
 }
-// Sign out end

@@ -28,7 +28,6 @@ elCategoryList.addEventListener("click", function (e) {
         renderProducts(products, elProductTable, "1")
     }
 })
-// Change category end
 
 // Add Pool part start
 function handleAddBtnClick(){
@@ -134,7 +133,6 @@ function handleAddBtnClick(){
 
 }
 
-// Add Pool part end
 
 // Update Part 
 function handleUpdateProduct (id){
@@ -237,7 +235,6 @@ function handleUpdateProduct (id){
     })
 
 }
-// Update Part 
 
 
   //Change site

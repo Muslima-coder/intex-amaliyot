@@ -28,7 +28,6 @@ function deleteProduct(id, categoryId) {
         localStorage.setItem("orders", JSON.stringify(orders))
     }
 }
-// Delete Part end
 
 // Search Part start
 elSearchInput.addEventListener("input", function(e){
@@ -54,4 +53,3 @@ elSearchInput.addEventListener("input", function(e){
         renderProducts(filteredProducts, elOrderTable) 
     }
 })
-// Search Part end
